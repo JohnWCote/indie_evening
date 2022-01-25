@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hardware on 🌜 Indie Evenings 🌛</title>
+    <link>/tags/hardware/</link>
+    <description>Recent content in hardware on 🌜 Indie Evenings 🌛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020 🌜 Indie Evenings 🌛</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 -0400</lastBuildDate>
+    
+        <atom:link href="/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware: 8bitdo sn30pro plus</title>
+      <link>/posts/8bitdo-sn30pro-plus/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/posts/8bitdo-sn30pro-plus/</guid>
+      <description>I&amp;rsquo;d like to take a moment and review a controller I&amp;rsquo;ve been using for Dead Cells and various other PC games. It&amp;rsquo;s the 8bitdo SN30Pro plus. It&amp;rsquo;s a rechargeable bluetooth wireless controller that has very classic stylings (mine is red, but there&amp;rsquo;s also a purple button variation). There&amp;rsquo;s software to customize the button layouts, analog joystick triggering and trigger throw distance. The bottom triggers are analog and the d-pad is very tight.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
